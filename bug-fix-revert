@@ -1,0 +1,40 @@
+Command:
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/8009
+
+Output:
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/8009",
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/8009",
+  "number": 8009,
+  "state": "closed",
+  "title": "Bug fix revert",
+  "user": {
+    "login": "sumiyabazarn790-byte"
+  },
+  "head": {
+    "label": "sumiyabazarn790-byte:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "sha": "4b2b0066d6ac6597a4670e6099aaa9a9c80ee8ab",
+    "repo": {
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "sumiyabazarn790-byte/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/sumiyabazarn790-byte/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true,
+      "url": "https://api.github.com/repos/sumiyabazarn790-byte/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "fork": false,
+      "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "merged": false,
+  "commits": 2,
+  "changed_files": 2
+}
