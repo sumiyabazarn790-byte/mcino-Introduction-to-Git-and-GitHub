@@ -1,0 +1,7 @@
+Command:
+git branch -vv
+
+Output:
+  bug-fix-revert 4b2b006 Add merge branches output
+  bug-fix-typo   576954e Fix typo in simple interest script
+* main           eb976f7 [origin/main] Add pull request API output
