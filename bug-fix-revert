@@ -16,11 +16,11 @@ Output:
     "ref": "bug-fix-revert",
     "sha": "4b2b0066d6ac6597a4670e6099aaa9a9c80ee8ab",
     "repo": {
-      "name": "mcino-Introduction-to-Git-and-GitHub",
-      "full_name": "sumiyabazarn790-byte/mcino-Introduction-to-Git-and-GitHub",
-      "html_url": "https://github.com/sumiyabazarn790-byte/mcino-Introduction-to-Git-and-GitHub",
+      "name": "github-final-project",
+      "full_name": "sumiyabazarn790-byte/github-final-project",
+      "html_url": "https://github.com/sumiyabazarn790-byte/github-final-project",
       "fork": true,
-      "url": "https://api.github.com/repos/sumiyabazarn790-byte/mcino-Introduction-to-Git-and-GitHub"
+      "url": "https://api.github.com/repos/sumiyabazarn790-byte/github-final-project"
     }
   },
   "base": {
